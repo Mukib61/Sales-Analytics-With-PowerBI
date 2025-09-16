@@ -5,12 +5,16 @@ The dashboard is based on the Adventure Works dataset and provides a 360° view 
 📊 Dashboard Features
 
 Sales Performance: Track orders, revenue, profit, cost, margins, and returns
+![Sales Performance](./Images/Dashboard.png)  
 
 Territory Analysis: Regional turnover insights with map visualizations
+![Sales Performance](Images/TerritoryAnalysis.png)  
 
 Product Analysis: Identify top-performing products, return rates, and category performance
+![Sales Performance](Images/ProductAnalysis.png) 
 
 Customer Analysis: Understand customer segmentation, buying patterns, and retention trends
+![Sales Performance](Images/CustomerAnalysis.png) 
 
 Trend Analysis: Monitor monthly sales growth and forecast future performance
 
